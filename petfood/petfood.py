@@ -34,5 +34,3 @@ def desliga():
 
 #app.run(host='172.21.28.16', debug=False)
 app.run(host='127.0.0.1', debug=False)
-
-#teste de pull
